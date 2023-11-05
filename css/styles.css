@@ -397,8 +397,8 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-link:hover,
-.social-link:focus {
+.employee-social-link:hover,
+.employee-social-link:focus {
   background-color: #404bbf;
 }
 
