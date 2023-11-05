@@ -261,6 +261,7 @@ body {
 .solution-image-wrapper {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 112px;
   margin-bottom: 8px;
   border-radius: 4px;
