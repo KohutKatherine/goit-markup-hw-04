@@ -373,6 +373,12 @@ body {
   margin-top: 8px;
   height: 40px;
   padding: 0 16px;
+  justify-content: center;
+}
+
+.employee-social-wrapper .social-link:hover,
+.employee-social-wrapper .social-link:focus {
+  background-color: #404bbf;
 }
 
 .employee-social-wrapper a {
