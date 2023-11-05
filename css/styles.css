@@ -402,10 +402,6 @@ body {
   background-color: #404bbf;
 }
 
-.employee-social-wrapper a {
-  display: contents;
-}
-
 .menu-portfolio {
   display: flex;
   flex-wrap: wrap;
