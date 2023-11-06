@@ -442,13 +442,6 @@ body {
   transform: translateY(0%);
 }
 
-.menu-portfolio p {
-  color: #434455;
-  font-size: 16px;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
-}
-
 .page-footer {
   background-color: #2e2f42;
   padding-top: 100px;
